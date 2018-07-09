@@ -1,6 +1,7 @@
-package com.wtuadn.rxbus
+package com.wtuadn.rxbus.kotlin
 
 import android.arch.lifecycle.LifecycleOwner
+import com.wtuadn.rxbus.RxUtils
 import io.reactivex.Flowable
 import io.reactivex.Maybe
 import io.reactivex.Observable
