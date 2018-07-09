@@ -19,7 +19,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency:
 ```gradle
 	dependencies {
-	        compile 'com.github.wtuadn.rxbus:rxbus:1.0.1'
-	        compile 'com.github.wtuadn.rxbus:rxbus-kotlin:1.0.1'//kotlin support
+	        compile 'com.github.wtuadn.rxbus:rxbus:1.0.2'
+	        compile 'com.github.wtuadn.rxbus:rxbus-kotlin:1.0.2'//kotlin support
 	}
 ```
